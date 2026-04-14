@@ -1,4 +1,5 @@
 # Math-games
+just copy the code if you want to see the math game
 <!DOCTYPE html>
 <html lang="en">
 <head>
